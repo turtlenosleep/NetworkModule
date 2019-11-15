@@ -1,0 +1,36 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/StudioProjects/XQMTCST" value="PREVIEW" />
+            <entry key="E:/AndroidProject/DAQPSCAP" value="PREVIEW" />
+            <entry key="E:/AndroidProject/quickstart-android" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="android.sdk.path" value="F:/AndroidSdk" />
+        <property name="last_opened_file_path" value="E:/AndroidProject" />
+        <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>Android API 15 Platform</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

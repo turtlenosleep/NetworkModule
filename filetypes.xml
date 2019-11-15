@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="BROKER_CFG_JSN_TW" type="PLAIN_TEXT" />
+      <mapping pattern="LAUNCHER_DATA_TW" type="PLAIN_TEXT" />
+      <mapping pattern="SUPPORT_PUSHMSG" type="PLAIN_TEXT" />
+      <mapping pattern="AnnouncementTemplate" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
