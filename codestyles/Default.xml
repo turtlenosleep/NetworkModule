@@ -1,6 +1,10 @@
 <code_scheme name="Default" version="173">
   <AndroidXmlCodeStyleSettings>
-    <option name="ARRANGEMENT_SETTINGS_MIGRATED_TO_191" value="true" />
+    <option name="VALUE_RESOURCE_FILE_SETTINGS">
+      <value>
+        <option name="WRAP_ATTRIBUTES" value="2" />
+      </value>
+    </option>
   </AndroidXmlCodeStyleSettings>
   <codeStyleSettings language="XML">
     <indentOptions>
