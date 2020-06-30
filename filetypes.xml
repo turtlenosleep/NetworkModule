@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="webp" type="Image" />
       <mapping pattern="BROKER_CFG_JSN_TW" type="PLAIN_TEXT" />
       <mapping pattern="LAUNCHER_DATA_TW" type="PLAIN_TEXT" />
       <mapping pattern="SUPPORT_PUSHMSG" type="PLAIN_TEXT" />
